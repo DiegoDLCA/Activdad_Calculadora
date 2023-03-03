@@ -6,6 +6,7 @@ package com.mycompany.calculadora1;
 
 /**
  *
+ *Estudiantes Diego L Cordoba y Juan D Cuatindioy
  * @author dlcaj
  */
 public class Calculadora extends javax.swing.JFrame {
